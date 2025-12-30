@@ -9,5 +9,3 @@ scipy
 soundfile
 pygame
 gTTS
-
-

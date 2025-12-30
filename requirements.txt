@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+librosa
+scikit-learn
+matplotlib
+sounddevice
+SpeechRecognition
+gTTS
+pygame
+Pillow
+scipy

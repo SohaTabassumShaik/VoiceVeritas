@@ -4,9 +4,10 @@ numpy
 librosa
 scikit-learn
 matplotlib
-sounddevice
-SpeechRecognition
-gTTS
-pygame
 Pillow
 scipy
+soundfile
+pygame
+gTTS
+
+
